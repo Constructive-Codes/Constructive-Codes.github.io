@@ -18,7 +18,7 @@ list_title: ' '
 
 Rosin, C.D. (May 2025) "Using Reasoning Models to Generate Search Heuristics that Solve Open Instances of Combinatorial Design Problems." [https://arxiv.org/pdf/2505.23881](https://arxiv.org/pdf/2505.23881)
 
-Running CPro1 with reasoning model o3-mini-high on 4 combinatorial problems from Feb. 2025 publications, CPro1 resolves open instances for 3 of them.  CPro1 also finds new Deletion Codes, and solves additional open instances of the Handbook of Combinatorial Designs problems from January 2025 (below).
+Running CPro1 with reasoning model o3-mini-high on 4 combinatorial design problems from Feb. 2025 publications, CPro1 resolves open instances for 3 of them.  CPro1 also finds new Deletion Codes, and solves additional open instances of the Handbook of Combinatorial Designs problems from January 2025 (below).
 
 **Jan. 29, 2025**: The [Handbook of Combinatorial Designs](https://www.taylorfrancis.com/books/edit/10.1201/9781420010541/handbook-combinatorial-designs-jeffrey-dinitz-charles-colbourn) is an extensive catalog of different types of combinatorial designs: [Balanced Incomplete Block Designs](https://en.wikipedia.org/wiki/Block_design), [Costas Arrays](https://en.wikipedia.org/wiki/Costas_array), [Weighing Matrices](https://en.wikipedia.org/wiki/Weighing_matrix), etc.  For many of these, it lists open instances of the *existence problem*: given a set of parameters describing the design, does a solution exist with these parameters that meets the constraints required by this type of combinatorial design?  These are beautiful problems, with simple constraints and instances that are described by just a few numbers (e.g. size).
 
