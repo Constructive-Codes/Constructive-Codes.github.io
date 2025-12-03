@@ -14,6 +14,12 @@ list_title: ' '
 <br>
 <br>
 <br>
+**Dec. 3, 2025**: Presenting results at the MATH-AI Workshop at NeurIPS 2025:
+
+Rosin, C.D. (Dec. 2025) "LLM-Generated Search Heuristics Can Solve Open Instances of Combinatorial Design Problems." [MATH-AI Workshop at NeurIPS 2025](https://openreview.net/forum?id=WlXSZiqcbH)
+
+This is an updated brief workshop paper that summarizes the results in the preprints below.
+
 **May 29, 2025**: New results using [CPro1](https://github.com/Constructive-Codes/CPro1) with reasoning models:
 
 Rosin, C.D. (May 2025) "Using Reasoning Models to Generate Search Heuristics that Solve Open Instances of Combinatorial Design Problems." [https://arxiv.org/pdf/2505.23881](https://arxiv.org/pdf/2505.23881)
