@@ -1,10 +1,10 @@
----
+.---
 layout: home
 list_title: ' '
 ---
 
 ![equidistant](equidistant.png){: style="float: left; margin-right: 1em;" width="250"}
-## Let's see if we can use code generation to construct novel solutions to interesting problems.  This page lists results obtained using the Constructive Protocol [CPro1](https://github.com/Constructive-Codes/CPro1) 
+## Let's see if we can use code generation to construct novel solutions to interesting problems.  This page lists results obtained using the Constructive Protocol [CPro1](https://github.com/Constructive-Codes/CPro1).
 <br>
 <br>
 <br>
