@@ -4,7 +4,7 @@ list_title: ' '
 ---
 
 ![equidistant](equidistant.png){: style="float: left; margin-right: 1em;" width="250"}
-## Let's see if we can use code generation to construct novel solutions to interesting problems.
+## Let's see if we can use code generation to construct novel solutions to interesting problems.  This page lists results obtained using the Constructive Protocol [CPro1](https://github.com/Constructive-Codes/CPro1) 
 <br>
 <br>
 <br>
@@ -14,6 +14,10 @@ list_title: ' '
 <br>
 <br>
 <br>
+**Feb. 19, 2026**: [CPro1](https://github.com/Constructive-Codes/CPro1) aided in the construction of a set of 8 hyperplanes that together slice every edge of the 10-dimensional hypercube, yielding the first improvement in the upper bound for hypercube edge slicing since 1971.  
+
+D. Soiffer, N. Itty, C.D. Rosin, B. Bruell, M. DiCicco, G.N. Sárközy, R. Offstein, D. Reichman. "Improved Upper Bounds for Slicing the Hypercube." [https://arxiv.org/pdf/2602.16807](https://arxiv.org/pdf/2602.16807)
+
 **Dec. 3, 2025**: Presenting results at the MATH-AI Workshop at NeurIPS 2025:
 
 Rosin, C.D. (Dec. 2025) "LLM-Generated Search Heuristics Can Solve Open Instances of Combinatorial Design Problems." [MATH-AI Workshop at NeurIPS 2025](https://openreview.net/forum?id=WlXSZiqcbH)
