@@ -14,9 +14,13 @@ list_title: ' '
 <br>
 <br>
 <br>
+**March 2, 2026**: New constant weight binary codes, constructed by two heuristics created by [CPro1](https://github.com/Constructive-Codes/CPro1).  One of the heuristics is a novel greedy approach based on distance histograms.    
+
+C.D. Rosin. (March 2026) "Automated Discovery of Improved Constant Weight Binary Codes." [https://arxiv.org/pdf/2603.00174](https://arxiv.org/pdf/2603.00174)
+
 **Feb. 19, 2026**: [CPro1](https://github.com/Constructive-Codes/CPro1) aided in the construction of a set of 8 hyperplanes that together slice every edge of the 10-dimensional hypercube, yielding the first improvement in the upper bound for hypercube edge slicing since 1971.  
 
-D. Soiffer, N. Itty, C.D. Rosin, B. Bruell, M. DiCicco, G.N. Sárközy, R. Offstein, D. Reichman. "Improved Upper Bounds for Slicing the Hypercube." [https://arxiv.org/pdf/2602.16807](https://arxiv.org/pdf/2602.16807)
+D. Soiffer, N. Itty, C.D. Rosin, B. Bruell, M. DiCicco, G.N. Sárközy, R. Offstein, D. Reichman. (Feb. 2026) "Improved Upper Bounds for Slicing the Hypercube." [https://arxiv.org/pdf/2602.16807](https://arxiv.org/pdf/2602.16807)
 
 **Dec. 3, 2025**: Presenting results at the MATH-AI Workshop at NeurIPS 2025:
 
